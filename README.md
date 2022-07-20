@@ -1,6 +1,10 @@
 ### Hi there 👋 I'm Aldar 🧑🏻‍💻
 Frontend JS developer
 <hr>
+<p align='center'>
+<img src=https://media.giphy.com/media/11KzOet1ElBDz2/giphy.gif>
+<p>
+<hr>
 <b>My stack</b>
 <p align='center'>
 <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
