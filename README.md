@@ -1,7 +1,5 @@
-### Hi there 👋
+### Hi there 👋 I'm Aldar 🧑🏻‍💻
 Frontend JS developer
- 
-Software Engineer 
 
 <a href="https://t.me/exalonv">
        <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
